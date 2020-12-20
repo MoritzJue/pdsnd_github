@@ -5,7 +5,7 @@
 Analysis bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+In the project US bikeshare data of the US cities Washington, NYY und Chicago is analyzed
 
 ### Files used
 Include the files used
